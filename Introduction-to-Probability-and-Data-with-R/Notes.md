@@ -141,7 +141,7 @@ Confounding Variable 混杂变量
 
 Stratified sampling allows for controlling for possible confounders in the sampling stage, while blocking allows for controlling for such variables during random assignment.
 
-![1_1](\images\1_1.PNG)
+![1_1](images/1_1.PNG)
 
 
 
