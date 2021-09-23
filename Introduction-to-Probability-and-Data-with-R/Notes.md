@@ -141,7 +141,7 @@ Confounding Variable 混杂变量
 
 Stratified sampling allows for controlling for possible confounders in the sampling stage, while blocking allows for controlling for such variables during random assignment.
 
-![1_1](.\images\1_1.PNG)
+![1_1](images/1_1.PNG)
 
 
 
@@ -151,7 +151,7 @@ Stratified sampling allows for controlling for possible confounders in the sampl
 
 #### Scatterplots
 
-![2_1](.\images\2_1.PNG)
+![2_1](images/2_1.PNG)
 
 
 
@@ -168,7 +168,7 @@ Stratified sampling allows for controlling for possible confounders in the sampl
    2. Weak
 4. Outliers
 
-![2_2](.\images\2_2.PNG)
+![2_2](images/2_2.PNG)
 
 
 
@@ -181,7 +181,7 @@ Stratified sampling allows for controlling for possible confounders in the sampl
 
 **Skewness**
 
-![2_3](.\images\2_3.PNG)
+![2_3](images/2_3.PNG)
 
 \- Distributions are skewed to the side of the long tail
 
@@ -189,19 +189,19 @@ Stratified sampling allows for controlling for possible confounders in the sampl
 
 **Modality**
 
-![2_4](.\images\2_4.PNG)
+![2_4](images/2_4.PNG)
 
 
 
 **Bin Width**
 
-![2_5](.\images\2_5.PNG)
+![2_5](images/2_5.PNG)
 
 
 
 #### Dotplot
 
-![2_6](.\images\2_6.PNG)
+![2_6](images/2_6.PNG)
 
 - Useful when individual values are of interest
 - Can get busy as the sample size increases
@@ -210,13 +210,13 @@ Stratified sampling allows for controlling for possible confounders in the sampl
 
 #### Box Plot
 
-![2_7](.\images\2_7.PNG)
+![2_7](images/2_7.PNG)
 
 - Useful for highlighting outliers, median, IQR
 
 
 
-![2_8](.\images\2_8.PNG)
+![2_8](images/2_8.PNG)
 
 
 
@@ -224,7 +224,7 @@ Stratified sampling allows for controlling for possible confounders in the sampl
 
 - Useful for highlighting the spatial distribution
 
-![2_9](.\images\2_9.PNG)
+![2_9](images/2_9.PNG)
 
 
 
@@ -257,9 +257,9 @@ Greek - population parameters
 
 **Skewness and measures of center**
 
-![2_10](.\images\2_10.PNG)
+![2_10](images/2_10.PNG)
 
-![2_11](.\images\2_11.PNG)
+![2_11](images/2_11.PNG)
 
 left-skewed: mean < median
 
@@ -269,7 +269,7 @@ right-skewed: mean > median
 
 ### Measures of spread
 
-![2_12](.\images\2_12.PNG)
+![2_12](images/2_12.PNG)
 
 1. Range: (max-min)
 
@@ -282,7 +282,7 @@ right-skewed: mean > median
    - s² - sample variance
    - μ² - population variance
 
-   ![2_13](.\images\2_13.PNG)
+   ![2_13](images/2_13.PNG)
 
    *Why do we square the difference?*
 
@@ -304,7 +304,7 @@ right-skewed: mean > median
 
    - σ: population SD
 
-   ![2_14](.\images\2_14.PNG)
+   ![2_14](images/2_14.PNG)
 
      
 
@@ -316,7 +316,7 @@ right-skewed: mean > median
 
    ***IQR=Q3-Q1***
 
-   ![2_15](.\images\2_15.PNG)
+   ![2_15](images/2_15.PNG)
 
 
 
@@ -324,7 +324,7 @@ right-skewed: mean > median
 
 Measures on which extreme observations have little effect.
 
-![2_16](.\images\2_16.PNG)
+![2_16](images/2_16.PNG)
 
 
 
@@ -347,13 +347,13 @@ Measures on which extreme observations have little effect.
 
 \- Often applied when much of the data cluster near 0 (relative to the larger values in the data set) and all observations are positive.
 
-![2_17](.\images\2_17.PNG)
+![2_17](images/2_17.PNG)
 
 
 
 \- To make the relationship between the variables more linear and hence easier to model with simple methods.
 
-![2_18](.\images\2_18.PNG)
+![2_18](images/2_18.PNG)
 
 
 
@@ -367,7 +367,7 @@ Square root / inverse
 
 #### Frequency table & bar plot
 
-![2_19](.\images\2_19.PNG)
+![2_19](images/2_19.PNG)
 
 
 
@@ -384,7 +384,7 @@ Bar plots vs. Histogram
 
 #### Contingency table
 
-![2_20](.\images\2_20.PNG)
+![2_20](images/2_20.PNG)
 
 
 
@@ -393,23 +393,19 @@ Bar plots vs. Histogram
 - Useful for visualizing conditional frequency distributions
 - Compare relative frequencies to explore the relationship between the variables
 
-![2_21](.\images\2_21.PNG)
+![2_21](images/2_21.PNG)
 
 
 
 #### Mosaicplot
 
-![2_22](.\images\2_22.PNG)
+![2_22](images/2_22.PNG)
 
 
 
 #### Side-by-side box plots
 
-![2_23](.\images\2_23.PNG)
-
-
-
-
+![2_23](images/2_23.PNG)
 
 
 
